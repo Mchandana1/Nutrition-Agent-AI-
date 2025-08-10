@@ -24,27 +24,6 @@ A smart, prompt-driven assistant that generates **personalized meal plans** usin
 
 ---
 
-# How to Use:
-
-1. Create a free IBM Cloud account: [https://cloud.ibm.com](https://cloud.ibm.com)
-
-2. Launch **Watsonx.ai**
-
-3. Go to **Prompt Lab**
-
-4. Select a Granite model (e.g., `granite-13b-chat`)
-
-5. Use a prompt like:
-
-   ```
-   Create a 3-day vegetarian meal plan for a 25-year-old female aiming for weight loss. Avoid dairy and nuts. Include explanations for each item.
-   ```
-
-6. Review and refine the AI response
-
-7. Add follow-up prompts for dynamic adjustments
-
----
 
 # Target Users:
 
